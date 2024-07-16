@@ -2,7 +2,7 @@ I'm Marcin, welcome to my ABAP journey :)
 
 With:
 - almost 5 years of experience as end-user of SAP CRM,
-- 2+ (and growing) years of experience as SAP support Agent,
+- 2+ (and counting) years of experience as SAP support Agent,
 in 2024 I decided to dive more into the "how it is done?" aspects of SAP, ABAP :)
 
 Please find below my achievements so far:
