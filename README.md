@@ -10,7 +10,7 @@ Please find below my achievements so far:
   Udemy Course Completion -  SAP ABAP Programming For Beginners - Online Training by Peter Moxon,
 - April 2024:
   Issued by SAP - Learning the Basics of ABAP Programming on SAP BTP - Record of Achievement
-- April / July 2024 - Completed ABAP track on Exercism platform - 42 challenges, each about creating a solution/agorithm for given case.
+- April / July 2024 - Completed ABAP track on Exercism platform - 42 challenges, each about creating a code solution for given case.
   All of them you can find and check:
   - on my Exercism profile: https://lnkd.in/dtizKQaj
   - in github repository: https://github.com/thadien665/abap_exercism
