@@ -1,2 +1,16 @@
-# github-portfolio
-Portfolio
+I'm Marcin, welcome to my ABAP journey :)
+
+With:
+- almost 5 years of experience as end-user of SAP CRM,
+- 2+ (and growing) years of experience as SAP support Agent,
+in 2024 I decided to dive more into the "how it is done?" aspects of SAP, ABAP :)
+
+Please find below my achievements so far:
+- January 2024:
+  -> Udemy Course Completion -  SAP ABAP Programming For Beginners - Online Training by Peter Moxon,
+- April 2024:
+  -> Issued by SAP - Learning the Basics of ABAP Programming on SAP BTP - Record of Achievement
+- April / July 2024 - Completed ABAP track on Exercism platform - 42 challenges, each about creating a solution/agorithm for given case.
+  All of them you can find and check below:
+  
+
