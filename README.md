@@ -15,3 +15,4 @@ I'm Marcin, welcome to my ABAP journey!
    - on my Exercism profile: https://lnkd.in/dtizKQaj
    - in github repository: https://github.com/thadien665/abap_exercism
   - March 2025 - first finished project - [ABAP changelog](https://github.com/thadien665/abap_changelog)
+  - April 2025 - completed (no cert yet) SAP Learning Journey Learning the Basics of SAP Fiori
